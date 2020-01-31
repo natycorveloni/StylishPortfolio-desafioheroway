@@ -1,0 +1,16 @@
+@import './header.css';
+@import './texto.css';
+@import './corpo.css';
+@import './page.css';
+@import './portifolio.css';
+@import './images.css';
+@import './responsividade.css';
+
+* {
+    padding: 0;
+    margin:0;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,18 @@
+.responsividade {
+    background-color: #3f48cc;
+    height: 15em;
+    background-size: 100% 15em;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.services {
+    color: #efb807;
+    font-size: 15px;
+}
+
+.what {
+    color: white;
+}
