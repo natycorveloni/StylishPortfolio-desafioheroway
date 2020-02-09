@@ -1,0 +1,42 @@
+.fundoAzul {
+    background-color: #3f48cc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2em;
+    flex-direction: column;
+}
+
+.textinho {
+    font-size: 130%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.clickme{
+    border: 1% solid white;
+    border-radius: 10px;
+    padding: 20px 30px;
+    background-color: white;
+    font-size: 12px;
+    color: #343a40;
+}
+
+.lookme {
+    border: 1% solid #343a40;
+    border-radius: 10px;
+    padding: 20px 30px;
+    background-color: #343a40;
+    font-size: 12px;
+    color: white;
+}

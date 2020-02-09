@@ -1,0 +1,42 @@
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2em;
+}
+
+.desenhos {
+    width: 40%;
+}
+
+.imagens {
+    /*Seta a imagem como plano de fundo da div, e coloca o cover pra ela cobrir todo o fundo da div*/
+    background-size: cover;
+    /* coloca o display flex e direction column pro texto de dentro da div ficar vertical e o justify-content flex-end pro texto ficar no final da div*/
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    /* da uma altura e largura pra div, e da um padding pro texto nao ficar colado embaixo*/
+    height: 20em;
+    width: 30em;
+    padding: 2em;
+    /* seta a cor do texto como branco, e o margin zero pras imagens ficarem grudadas*/
+    color: white;
+    margin: 0;
+}
+.envelope {
+    background-image: url('./imagens/portfolio-1.jpg');
+}
+
+.lapis {
+    background-image: url('./imagens/portfolio-2.jpg');
+}
+
+.morango {
+    background-image: url('./imagens/portfolio-3.jpg');
+}
+
+.tesoura {
+    background-image: url('./imagens/portfolio-4.jpg');
+}

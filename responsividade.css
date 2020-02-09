@@ -16,3 +16,28 @@
 .what {
     color: white;
 }
+
+.responsivo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.service-buttons {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.icone-service {
+    color: #3f48cc;
+    background-color: white;
+    width: 2em;
+    height: 2em;
+    font-size: 2em;
+    border-radius: 100%;
+    border: none;
+}

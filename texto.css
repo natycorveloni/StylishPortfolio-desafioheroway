@@ -5,16 +5,16 @@
     align-items: center;
     background-color: white;
     background-size: 100% 30em;
+    padding: 2em;
+    height: 20em;
 }
 
 .letra {
-    font-size: 100%;
-    height: 2em;
+    font-size: 1.5em;
 }
 
 .letras {
-    font-size: 80%;
-    height: 2rem;
+    font-size: 1em;
 }
 
 .botao {

@@ -1,0 +1,22 @@
+.rodape {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+
+.icone {
+    color: white;
+    background-color: blue;
+    width: 2em;
+    height: 2em;
+    font-size: 2em;
+    border-radius: 100%;
+    border: none;
+}
+
+.copy {
+    font-size: 80%;
+    color: gray;
+}
