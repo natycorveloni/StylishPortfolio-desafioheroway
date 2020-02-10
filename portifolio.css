@@ -6,4 +6,14 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    margin-top: 5em;
+}
+
+.portifolio-titulo{
+    color: #efb807;
+    font-size: 1em;
+}
+
+.portifolio-subtitulo {
+    font-size: 3em;
 }

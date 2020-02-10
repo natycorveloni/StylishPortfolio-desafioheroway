@@ -1,7 +1,7 @@
 .responsividade {
     background-color: #3f48cc;
-    height: 15em;
-    background-size: 100% 15em;
+    height: 24em;
+    background-size: 100% 24em;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -22,12 +22,13 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    padding: 2em;
 }
 
 .service-buttons {
     color: white;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: column;
 }
@@ -40,4 +41,11 @@
     font-size: 2em;
     border-radius: 100%;
     border: none;
+    margin-bottom: 6px;
+}
+
+.service-text {
+    font-size: 10px;
+    color: #c0cbff;
+    margin: 6px;
 }

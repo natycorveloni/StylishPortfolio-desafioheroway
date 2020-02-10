@@ -1,15 +1,15 @@
 .fundoAzul {
-    background-color: #3f48cc;
+    background-color: #2c51ff;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    padding: 2em;
+    padding: 6em;
     flex-direction: column;
 }
 
 .textinho {
-    font-size: 130%;
+    font-size: 2em;
     color: white;
     display: flex;
     justify-content: center;
@@ -21,22 +21,27 @@
     justify-content: center;
     align-items: center;
     padding: 10px 10px;
+    margin: 1em;
 }
 
 .clickme{
     border: 1% solid white;
-    border-radius: 10px;
+    border-radius: 4px;
     padding: 20px 30px;
     background-color: white;
-    font-size: 12px;
+    font-size: 14px;
     color: #343a40;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .lookme {
     border: 1% solid #343a40;
-    border-radius: 10px;
+    border-radius: 4px;
     padding: 20px 30px;
     background-color: #343a40;
-    font-size: 12px;
+    font-size: 14px;
     color: white;
+    text-decoration: none;
+    font-weight: bold;
 }

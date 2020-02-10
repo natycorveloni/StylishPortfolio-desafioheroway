@@ -1,7 +1,7 @@
 .page {
     background-image: url('./imagens/bg-callout.jpg ');
-    height: 30em;
-    background-size: 100% 30em;
+    height: 40em;
+    background-size: 100% 40em;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -9,17 +9,24 @@
 }
 
 .welcome {
-    font-size: 200%;
+    font-size: 2em;
 }
 
 .download {
-    border: 1% solid blue;
-    border-radius: 10px;
+    border: 1% solid #3f48cc;
+    border-radius: 4px;
     padding: 20px 20px;
-    background-color: blue;
-    font-size: 10px;
+    background-color: #3f48cc;
+    font-size: 14px;
+    margin: 2em;
 }
 
 .color {
     color: white;
+    text-decoration: none;
+}
+
+.italico {
+    margin: 0;
+    padding: 0;
 }
