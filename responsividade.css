@@ -1,11 +1,12 @@
 .responsividade {
     background-color: #3f48cc;
-    height: 24em;
-    background-size: 100% 24em;
+    height: 100%;
+    background-size: 100% 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    padding: 3em;
 }
 
 .services {
@@ -23,6 +24,7 @@
     align-items: center;
     flex-direction: row;
     padding: 2em;
+    flex-wrap: wrap;
 }
 
 .service-buttons {
